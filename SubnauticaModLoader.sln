@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OasisModLoader", "SubnauticaModLoader\OasisModLoader.csproj", "{992285F5-C427-4CD1-91E6-83F26376F09B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMLHelper", "SMLHelper\SMLHelper.csproj", "{AFCE6985-ED32-4A05-BE1A-1CB309C249F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992285F5-C427-4CD1-91E6-83F26376F09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992285F5-C427-4CD1-91E6-83F26376F09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992285F5-C427-4CD1-91E6-83F26376F09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992285F5-C427-4CD1-91E6-83F26376F09B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCE6985-ED32-4A05-BE1A-1CB309C249F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE6985-ED32-4A05-BE1A-1CB309C249F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE6985-ED32-4A05-BE1A-1CB309C249F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE6985-ED32-4A05-BE1A-1CB309C249F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
